@@ -1,0 +1,11 @@
+Baza danych przedstawia wypożyczalnię filmów. 
+W projekcie zastosowałem 5 tabel: 
+- pracownicy - zawiera listę pracowników wypożyczalni, 
+- klienci - zawiera listę osób, który wypożyczyły filmy,
+- rodzaj - zawiera spis kategorii filmów,
+- filmy - zawiera listę dostępnych filmów,
+- wypożyczenia - zawiera spis wypożyczeń filmów.  
+Procedura bez_napisow liczy ile film trwa z wyłączeniem napisów końcowych.
+Funkcja kara liczy ile złotych kary należy zapłacić za każdy przekroczony dzień.
+Wyzwalacz awans zmienia stanowisko kierownika na dyrektora.
+Wyzwalacz promocja pokazuje 80% ceny wypożyczenia filmów.

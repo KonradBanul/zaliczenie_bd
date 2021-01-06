@@ -1,0 +1,3 @@
+SELECT * FROM filmy
+WHERE cena BETWEEN 13 AND 15 AND czas_trwania BETWEEN 120 AND 140
+ORDER BY cena, ilosc ASC;
